@@ -20,22 +20,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on what I'm interested in.
-- 🌱 I’m currently learning NLP🗣/LLM🖼/Multi-Agent🎯/RAG🧠/Fedrated Learning🧬.
-- 💬 Ask me about music/fancy thoughts/crazy ideas.
+- 🌱 I’m currently learning NLP🗣/LLM🕸/Multi-Agent🤖/RAG🧠/Fedrated Learning🖧.
+- 💬 Ask me about reading/fancy thoughts/crazy ideas.
 - 📫 How to reach me: lievan20022@gmail.com
-- :boom: Fun fact: Allergic to curry(food, not my favorite shooter).
+
+### Project
+- [BookDone: Help any self-learner learn efficiently](https://bookdone-fe.vercel.app/)
+
 
 ### ALWAYS New in code ~
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Li-Evan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li-Evan&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=global-nlp&repo=knlp&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Li-Evan&repo=ericmiao.top&theme=transparent" />
-</a>
