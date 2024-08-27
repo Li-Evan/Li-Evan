@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on what I'm interested in.
-- 🌱 I’m currently learning NLP🗣/GAN🖼/YOLO🎯/HTM🧠/Bioinformatics🧬.
+- 🌱 I’m currently learning NLP🗣/LLM🖼/Multi-Agent🎯/RAG🧠/Fedrated Learning🧬.
 - 💬 Ask me about music/fancy thoughts/crazy ideas.
-- 📫 How to reach me: ericccc888666@gmail.com
-- 🌐 Check out my <a href="https://ericmiao.top">personal website!</a> (thx to HEXO)
+- 📫 How to reach me: lievan20022@gmail.com
 - :boom: Fun fact: Allergic to curry(food, not my favorite shooter).
 
 ### ALWAYS New in code ~
