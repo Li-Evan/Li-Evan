@@ -1,11 +1,11 @@
 ### Hi there 👋
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=永远天真，永远热烈。)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light&quote=永远年轻，永远热泪盈眶。)](https://github.com/piyushsuthar/github-readme-quotes)
 ### Visitors:
 YOU ARE VISITOR
-![Visitor Count](https://profile-counter.glitch.me/ERICMIAO0817/count.svg)❗️
+![Visitor Count](https://profile-counter.glitch.me/Li-Evan/count.svg)❗️
 ### About me
 <!--
-**ERICMIAO0817/ERICMIAO0817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Li-Evan/Li-Evan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <img src="https://4myblog.oss-cn-beijing.aliyuncs.com/img/csu.png"/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### ALWAYS New in code ~
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ERICMIAO0817&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERICMIAO0817&layout=compact&theme=transparent&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Li-Evan&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Li-Evan&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=global-nlp&repo=knlp&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ERICMIAO0817&repo=ericmiao.top&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Li-Evan&repo=ericmiao.top&theme=transparent" />
 </a>
