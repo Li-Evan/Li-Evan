@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: lievan20022@gmail.com
 
 ### Project
-- [SeeleAI.info: Latest SeeleAI and ai game generator information](https://perchancestory.com/) 
+- [SeeleAI.info: Latest SeeleAI and ai game generator information](https://seeleai.info/) 
 - [BookDone: Help any self-learner learn efficiently](https://bookdone-fe.vercel.app/)
 
 
