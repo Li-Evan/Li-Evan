@@ -1,6 +1,6 @@
 # Evan Li
 
-PhD dropout. Early core member at an AI startup.
+Early core member at an AI startup.
 
 Left academia to build. In the AI era, shipping products beats publishing papers.
 
